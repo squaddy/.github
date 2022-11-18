@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://squaddy.app">
-    <img width="300" src="https://s3.eu-west-2.amazonaws.com/uploads.squaddy.app/sqyaddyOG.png" alt="SquaddyApp">
+    <img width="300" src="https://s3.eu-west-2.amazonaws.com/uploads.squaddy.app/squaddyGHBanner.png" alt="SquaddyApp">
     <br>
-    <strong>Squaddy connects groups of people who want to train together</strong>
+    <strong>Train smarter, progress faster, achieve your goals</strong>
   </a>
 </p>
 <br>
