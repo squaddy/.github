@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://squaddy.app">
-    <img width="300" src="https://s3.eu-west-2.amazonaws.com/uploads.squaddy.app/squaddyGHBanner.png" alt="SquaddyApp">
+  <a href="https://v2.squaddy.app">
+    <img width="800" src="https://s3.eu-west-2.amazonaws.com/uploads.squaddy.app/squaddyGHBanner.png" alt="SquaddyApp">
     <br>
     <strong>Train smarter, progress faster, achieve your goals</strong>
   </a>
